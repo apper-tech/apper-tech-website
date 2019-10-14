@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="DynamicServices.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" inherits="DynamicServices.Global" Language="C#" %>
