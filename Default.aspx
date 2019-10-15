@@ -147,28 +147,7 @@
             </div>
         </section>
 
-        <!-- spacer section:akaratak -->
-        <section id="testimonials" class="section" data-stellar-background-ratio="0.5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="align-center">
-                            <div class="testimonial pad-top40 pad-bot40 clearfix">
-                                <h5>
-                                    <asp:Literal runat="server" Text='<%# Data["Akaratak_Desc"] %>'></asp:Literal>
-                                </h5>
-                                <br />
-                                <span class="author">&mdash;
-                                    <asp:Literal runat="server" Text='<%# Data["Check_it"] %>'></asp:Literal>
-                                    <a target="_blank" href="http://www.akaratak.com">www.akaratak.com</a></span>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-                </div>
-        </section>
+        
 
         <!-- team -->
         <section id="section-about" class="section appear clearfix">
@@ -214,8 +193,8 @@
                                 <img src="img/team/member3.png" alt="" style="width: 250px;" />
                             </figure>
                             <div class="team-detail">
-                                <h4>Rd Abdalmajeed</h4>
-                                <span>System Analyst</span>
+                                <h4>Qamar Alzaman Hafez</h4>
+                                <span>Creative director</span>
                             </div>
                         </div>
                     </div>
@@ -247,7 +226,80 @@
                                 <asp:Literal runat="server" Text='<%# Data["Project"] %>'></asp:Literal></h2>
                             </div></div></div></div>
         </section>
+         <!--spacer -->
+        <section id="spacer01" class="section clearfix"></section>
+         <!-- spacer section:investorX -->
+        <section id="parallax5" class="section parallax " data-stellar-background-ratio="0.5">
+          <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="align-center">
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">
+                                <h5>
+                                    <asp:Literal runat="server" Text='<%# Data["InvestorX_Desc"] %>'></asp:Literal>
+                                </h5>
+                                <br />
+                                <span class="author">&mdash;
+                                    <asp:Literal runat="server" Text='<%# Data["Check_it"] %>'></asp:Literal>
+                                    <a target="_blank" href="http://investorx.io">www.investorx.io</a></span>
+                            </div>
 
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+        </section>
+         <!--spacer -->
+        <section id="spacer01" class="section clearfix"></section>
+         <!-- spacer section:SurveyX -->
+        <section id="parallax6" class="section parallax " data-stellar-background-ratio="0.5">
+          <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="align-center">
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">
+                                <h5>
+                                    <asp:Literal runat="server" Text='<%# Data["SurveyX_Desc"] %>'></asp:Literal>
+                                </h5>
+                                <br />
+                                <span class="author">&mdash;
+                                    <asp:Literal runat="server" Text='<%# Data["Check_it"] %>'></asp:Literal>
+                                    <a target="_blank" href="http://surveyx.io/">www.surveyx.io</a></span>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+        </section>
+        <!--spacer -->
+        <section id="spacer01" class="section clearfix"></section>
+        <!-- spacer section:akaratak -->
+        <section id="testimonials" class="section" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="align-center">
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">
+                                <h5>
+                                    <asp:Literal runat="server" Text='<%# Data["Akaratak_Desc"] %>'></asp:Literal>
+                                </h5>
+                                <br />
+                                <span class="author">&mdash;
+                                    <asp:Literal runat="server" Text='<%# Data["Check_it"] %>'></asp:Literal>
+                                    <a target="_blank" href="http://www.akaratak.com">www.akaratak.com</a></span>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+        </section>
+        <!--spacer -->
+        <section id="spacer01" class="section clearfix"></section>
        <!-- spacer section:hajernet -->
         <section id="parallax2" class="section parallax " data-stellar-background-ratio="0.5">
             <div class="container">
@@ -294,9 +346,9 @@
                 </div>
                 </div>
         </section>
-        <!--spacer -->
-         <section id="spacer02" class="section clearfix"></section>
-         <!-- spacer section:qutuf -->
+         <!--spacer -->
+        <section id="spacer01" class="section clearfix"></section>
+         <!-- spacer section:saudibdco -->
         <section id="parallax4" class="section parallax " data-stellar-background-ratio="0.5">
           <div class="container">
                 <div class="row">
@@ -318,6 +370,8 @@
                 </div>
                 </div>
         </section>
+       
+        
         <!-- contact -->
         <section id="section-contact" class="section appear clearfix">
             <div class="container">
@@ -543,7 +597,7 @@
                     <div class="col-sm-12">
                         <p>Copyright &copy; Apper Tech</p>
                         <div class="credits pad-top20">
-                            All Rights Reserved 2017 <a href="http://apper.tech/">Apper Tech</a>
+                            All Rights Reserved 2019 <a href="http://apper.tech/">Apper Tech</a>
                         </div>
                     </div>
                 </div>

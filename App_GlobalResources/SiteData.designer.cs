@@ -224,6 +224,16 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Crypto in-Time Investment Collaboration Ethereum ÐApp
+        ///The ÐApp aims to elect top investment wallets. The elections run continuously, one election at a time.
+        /// </summary>
+        internal static string InvestorX_Desc {
+            get {
+                return ResourceManager.GetString("InvestorX_Desc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Job Vacancies.
         /// </summary>
         internal static string Job_Vacancies {
@@ -409,6 +419,16 @@ namespace Resources {
         internal static string Supject_Holder {
             get {
                 return ResourceManager.GetString("Supject_Holder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Crowd Opinion Mining and Rewarding ÐApp
+        ///The ÐApp aims to facilitate crowd opinion mining through incentivization with rewards..
+        /// </summary>
+        internal static string SurveyX_Desc {
+            get {
+                return ResourceManager.GetString("SurveyX_Desc", resourceCulture);
             }
         }
         

@@ -172,6 +172,10 @@
   <data name="Home" xml:space="preserve">
     <value>Home</value>
   </data>
+  <data name="InvestorX_Desc" xml:space="preserve">
+    <value>Crypto in-Time Investment Collaboration Ethereum ÐApp
+The ÐApp aims to elect top investment wallets. The elections run continuously, one election at a time</value>
+  </data>
   <data name="Job_Vacancies" xml:space="preserve">
     <value>Job Vacancies</value>
   </data>
@@ -234,6 +238,10 @@
   </data>
   <data name="Supject_Holder" xml:space="preserve">
     <value>What is the Subject?</value>
+  </data>
+  <data name="SurveyX_Desc" xml:space="preserve">
+    <value>Crowd Opinion Mining and Rewarding ÐApp
+The ÐApp aims to facilitate crowd opinion mining through incentivization with rewards.</value>
   </data>
   <data name="Team" xml:space="preserve">
     <value>Our Team</value>

@@ -378,6 +378,13 @@ section.section {
 #parallax4{	
 	background-image: url(../img/parallax/img4.jpg);
 }
+
+#parallax5 {
+    background-image: url(../img/parallax/img6.jpg);
+}
+#parallax6 {
+    background-image: url(../img/parallax/img7.jpg);
+}
 #testimonials{	
 	background-image: url(../img/parallax/img3.jpg);
 }
